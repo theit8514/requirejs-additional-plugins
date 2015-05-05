@@ -5,7 +5,7 @@
     "private": false,
     "dependencies": {
         "requirejs": "~2.1.17",
-        "requirejs-text": "~2.0.14",
+        "requirejs-text": "~2.0.14"
     },
     "main": [
       "lazy.js",
