@@ -1,0 +1,18 @@
+{
+    "name": "requirejs-additional-plugins",
+    "version": "1.0.0",
+    "license": "GPL 3.0",
+    "private": false,
+    "dependencies": {
+        "requirejs": "~2.1.17",
+        "requirejs-text": "~2.0.14",
+    },
+    "main": [
+      "lazy.js",
+      "style.js",
+      "kendo-template.js"
+    ],
+    "ignore": [
+      "LICENSE"
+    ]
+}
